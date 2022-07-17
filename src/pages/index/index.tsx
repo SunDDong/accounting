@@ -9,6 +9,7 @@ export default class Index extends Component {
 
   componentWillMount () {
     console.log("jjjj111")
+    console.log("jjjj111")
   }
 
   componentDidMount () { }
