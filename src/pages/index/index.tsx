@@ -7,7 +7,9 @@ import './index.scss'
 
 export default class Index extends Component {
 
-  componentWillMount () { }
+  componentWillMount () {
+    console.log("jjjj111")
+  }
 
   componentDidMount () { }
 
